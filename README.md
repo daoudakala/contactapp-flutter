@@ -1,4 +1,4 @@
-# exo
+# Contact app 
 
 A new Flutter project.
 
